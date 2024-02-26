@@ -1,3 +1,6 @@
-# I updated this header
-## I updated this one too. 
+## Updated Header - See the Yaktocat!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
